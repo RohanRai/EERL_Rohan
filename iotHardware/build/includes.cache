@@ -1,0 +1,102 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\xiaoy\\AppData\\Local\\Arduino15\\packages\\adafruit\\hardware\\samd\\1.2.1\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\xiaoy\\AppData\\Local\\Arduino15\\packages\\adafruit\\hardware\\samd\\1.2.1\\variants\\feather_m0"
+  },
+  {
+    "Sourcefile": "c:\\Users\\xiaoy\\Documents\\GitHub\\iotHardware\\build\\sketch\\ttn-otaa.ino.cpp",
+    "Include": "lmic.h",
+    "Includepath": "C:\\Users\\xiaoy\\Documents\\Arduino\\libraries\\arduino-lmic\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\xiaoy\\Documents\\GitHub\\iotHardware\\build\\sketch\\ttn-otaa.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\xiaoy\\AppData\\Local\\Arduino15\\packages\\adafruit\\hardware\\samd\\1.2.1\\libraries\\SPI"
+  },
+  {
+    "Sourcefile": "c:\\Users\\xiaoy\\Documents\\GitHub\\iotHardware\\build\\sketch\\ttn-otaa.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\xiaoy\\Documents\\Arduino\\libraries\\arduino-lmic\\src\\aes\\ideetron\\AES-128_V10.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\xiaoy\\Documents\\Arduino\\libraries\\arduino-lmic\\src\\aes\\lmic.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\xiaoy\\Documents\\Arduino\\libraries\\arduino-lmic\\src\\aes\\other.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\xiaoy\\Documents\\Arduino\\libraries\\arduino-lmic\\src\\hal\\hal.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\xiaoy\\Documents\\Arduino\\libraries\\arduino-lmic\\src\\lmic\\lmic.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\xiaoy\\Documents\\Arduino\\libraries\\arduino-lmic\\src\\lmic\\lmic_as923.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\xiaoy\\Documents\\Arduino\\libraries\\arduino-lmic\\src\\lmic\\lmic_au921.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\xiaoy\\Documents\\Arduino\\libraries\\arduino-lmic\\src\\lmic\\lmic_eu868.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\xiaoy\\Documents\\Arduino\\libraries\\arduino-lmic\\src\\lmic\\lmic_eu_like.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\xiaoy\\Documents\\Arduino\\libraries\\arduino-lmic\\src\\lmic\\lmic_in866.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\xiaoy\\Documents\\Arduino\\libraries\\arduino-lmic\\src\\lmic\\lmic_us915.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\xiaoy\\Documents\\Arduino\\libraries\\arduino-lmic\\src\\lmic\\lmic_us_like.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\xiaoy\\Documents\\Arduino\\libraries\\arduino-lmic\\src\\lmic\\oslmic.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\xiaoy\\Documents\\Arduino\\libraries\\arduino-lmic\\src\\lmic\\radio.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\xiaoy\\AppData\\Local\\Arduino15\\packages\\adafruit\\hardware\\samd\\1.2.1\\libraries\\SPI\\SPI.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]
